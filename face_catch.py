@@ -1,0 +1,2 @@
+def getFaceImage(Image):
+    pass
