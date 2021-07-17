@@ -57,7 +57,7 @@ class MainWin(QWidget):
         #设置窗口的位置和大小
         self.setGeometry(300, 300, 800, 600)  
         #设置窗口的标题
-        self.setWindowTitle('Icon')
+        self.setWindowTitle('摄像头人脸捕获工具')
         #设置窗口的图标，引用当前目录下的web.png图片
         self.setWindowIcon(QIcon('web.png'))        
         #摄像头窗口
